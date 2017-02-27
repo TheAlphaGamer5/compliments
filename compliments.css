@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Bitter|Slabo+27px');
+
+body {
+  background: #9ec3ff;
+}
+
+#programcontainer {
+  width: 100%;
+  text-align: center;
+}
+
+#inner {
+  display: inline-block;
+}
+
+#complimentcontainer {
+  width: 700px;
+  height: 250px;
+  font-family: 'Bitter', cursive;
+  font-size: 38px;
+  padding: 20px;
+  color: #2b2596;
+}
+
+img {
+  border: 4px solid black;
+}
+
+#userinput {
+  border: 3 none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px 10px;
+  width: 150px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 10px;
+  height: 70px;
+  width: 250px;
+  font-family: 'Clicker Script', cursive;
+  font-size: 42px;
+  background: #2b2596;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  text-shadow: 1px 1px #666;
+}
