@@ -52,3 +52,11 @@ button {
   -webkit-border-radius: 5px;
   text-shadow: 1px 1px #666;
 }
+
+#name {
+  width: 300px;
+  height: 50px;
+  font-size: 40px;
+  font-family: 'Clicker Script';
+  font-weight: bold;
+}
